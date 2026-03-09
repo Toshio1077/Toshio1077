@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ### 👋 SES → AI Engineer を目指して毎日学習中
 
-🔥 現在の学習: G検定/ Anthropic Academy
-🎯 目標: G検定 → E資格 → AWS AI資格
-💼 現職: システムエンジニア（VB.NET / C# / Spring Boot / React/ TypeScript/ PHP/ Laravel/ Python）
+- 🔥 現在の学習: G検定/ Anthropic Academy
+- 🎯 目標: G検定 → E資格 → AWS AI資格
+- 💼 現職: システムエンジニア（VB.NET / C# / Spring Boot / React/ TypeScript/ PHP/ Laravel/ Python）
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourname&theme=default)](https://git.io/streak-stats)
 
-📊 **学習リポジトリ**: [ai-learning-journey](https://github.com/Toshio1077/ai-learning-journey)
-📝 **Note**: [学習記録を連載中](あなたのNoteリンク)
+- 📊 **学習リポジトリ**: [ai-learning-journey](https://github.com/Toshio1077/ai-learning-journey)
+- 📝 **Note**: [学習記録を連載中](あなたのNoteリンク)
 
